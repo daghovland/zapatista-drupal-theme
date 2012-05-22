@@ -104,6 +104,11 @@ p
 {
 font-size: 11pt;
 line-height: 1.8em;
+margin-bottom: 1.5em;
+}
+table
+{
+margin-bottom: 1.5em;
 }
 
 /* Header */
