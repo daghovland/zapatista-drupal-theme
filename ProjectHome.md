@@ -1,0 +1,1 @@
+A theme in drupal 6. Used by Zapatistgruppa i Bergen for web development. The starting point was the theme "nonzerored", but I am not yet sure how much is left of this. We have kept the same license, though, GPLv2, so it should be no problem. Contributors till now have been Dag Hovland (coding) and Magnus Helgesen (graphics)
